@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**shashankrnr32/shashankrnr32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Shashank Sharma, Software Development Engineer working at [Yahoo](https://yahoo.com)/[Verizon Media](https://www.verizonmedia.com/).
 
-Here are some ideas to get you started:
+#### Some technologies I am currently working or have previously worked on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?logo=kotlin&style=flat-square)
+
+![Android](https://img.shields.io/badge/-Android-blue?logo=Android&style=flat-square)
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node-js)
+
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Openstack](https://img.shields.io/badge/-Openstack-red?logo=openstack&style=flat-square)
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shashankrnr32&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankrnr32&hide=TeX&layout=compact)
+
+#### Reach me at
+
+[![Github](https://img.shields.io/badge/Github-333333?logo=github)](https://github.com/shashankrnr32)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shashank-sharma-932701108)
