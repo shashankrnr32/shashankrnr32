@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am Shashank Sharma, Software Development Engineer working at [Yahoo](https://yahoo.com)/[Verizon Media](https://www.verizonmedia.com/).
+I am Shashank Sharma, Software Development Engineer working at [Yahoo!](https://yahoo.com).
 
 #### Some technologies I am currently working or have previously worked on
 
