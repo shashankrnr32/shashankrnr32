@@ -22,10 +22,8 @@ I am Shashank Sharma, Software Development Engineer working at [Yahoo!](https://
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=shashankrnr32&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankrnr32&hide=TeX&layout=compact)
-
 #### Reach me at
 
 [![Github](https://img.shields.io/badge/Github-333333?logo=github)](https://github.com/shashankrnr32)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shashank-sharma-932701108)
+[![Mail](https://img.shields.io/badge/Mail-%236001d2?logo=yahoo!)](mailto://shashankbsharma@yahoo.com)
