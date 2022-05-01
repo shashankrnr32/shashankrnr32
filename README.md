@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am Shashank Sharma, Software Development Engineer working at [Yahoo!](https://yahoo.com).
+I am Shashank Sharma, Senior Software Development Engineer working at [Paytm](https://paytm.com). Previously at Yahoo!. 
 
 #### Some technologies I am currently working or have previously worked on
 
