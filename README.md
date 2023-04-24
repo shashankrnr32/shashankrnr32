@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I am Shashank Sharma, Senior Software Development Engineer (Backend) working at [Paytm](https://paytm.com) with a 3 year experience of working at [Yahoo!](https://yahoo.com) as a Full Stack Engineer.
+I am Shashank Sharma, Technical Lead (Backend) working at [Paytm](https://paytm.com) with a 3 year experience of working at [Yahoo!](https://yahoo.com) as a Full Stack Engineer.
 
 ### Some technologies I am currently working or have previously worked on
 
