@@ -35,5 +35,5 @@ I am Shashank Sharma, Technical Lead (Backend) working at [Paytm](https://paytm.
 ## Reach me at
 
 [![Github](https://img.shields.io/badge/Github-333333?logo=github)](https://github.com/shashankrnr32)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shashank-sharma-932701108)
-[![Mail](https://img.shields.io/badge/Mail-%236001d2?logo=yahoo!)](mailto://shashankbsharma@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shashankrnr32)
+[![Mail](https://img.shields.io/badge/Mail-%236001d2?logo=yahoo!)](mailto://shashankrnr32@gmail.com)
